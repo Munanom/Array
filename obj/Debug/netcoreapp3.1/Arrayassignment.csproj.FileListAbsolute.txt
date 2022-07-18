@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.exe
+C:\Users\Admin\source\repos\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.deps.json
+C:\Users\Admin\source\repos\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.dll
+C:\Users\Admin\source\repos\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.pdb
+C:\Users\Admin\source\repos\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.dll
+C:\Users\Admin\source\repos\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.pdb
+C:\Users\Admin\source\repos\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.genruntimeconfig.cache
